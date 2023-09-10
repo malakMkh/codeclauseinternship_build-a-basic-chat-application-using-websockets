@@ -1,4 +1,7 @@
 Internship Task 1: Simple Chat App using WebSockets
+![Capture d’écran 2023-09-10 131159](https://github.com/malakMkh/codeclauseinternship_build-a-basic-chat-application-using-websockets/assets/123992427/091ce9a3-e625-427f-a29b-877c36a95efa)
+
+
 Overview
 This repository contains the code and documentation for Task 1 of the internship project. The goal of this task is to create a simple chat application that allows users to send and receive messages in real-time using WebSocket technology. The application is built using Node.js, Express.js, and React, with communication facilitated by the Socket.io library.
 
